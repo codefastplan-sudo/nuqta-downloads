@@ -1,6 +1,6 @@
 # نقطة — تنزيل تطبيق Android التجريبي
 
-[تنزيل نقطة 0.1.1 بصيغة APK](https://github.com/codefastplan-sudo/nuqta-downloads/releases/download/android-preview-3/nuqta-android-0.1.1.apk)
+[تنزيل نقطة 0.1.1 بصيغة APK](https://raw.githubusercontent.com/codefastplan-sudo/nuqta-downloads/android-preview-3/nuqta-android-0.1.1.apk)
 
 الرابط عام ولا يتطلب تسجيل الدخول إلى GitHub، ويمكن مشاركته بين أجهزة التجربة. افتح الرابط من جهاز Android، ثم افتح الملف بعد اكتمال التنزيل واتبع تعليمات التثبيت.
 
